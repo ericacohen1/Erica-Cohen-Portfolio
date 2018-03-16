@@ -271,7 +271,7 @@ html {
 #portfolio-area {
   /* Box-model */
   width: 85%;
-  padding: 45px 10px 25px 31px;
+  padding: 45px 15px 25px 15px;
 
   /* Positioning */
   margin-top: 30px;
@@ -287,14 +287,17 @@ html {
 
 .port-imgs {
   /* Box-model */
-  width: 233px;
-  height: 166px;
+  width: 100%;
+  height: 100%;
   margin-right: 15px;
 
   /* Positioning */
   margin-bottom: 15px;
 }
 
+p {
+  width: 100%;
+}
 /* --------END--------- */
 
 /* ----------------- */
